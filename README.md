@@ -1,6 +1,7 @@
 # Twitter Stickers [![Build Status](https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat)](https://maxgrebennikov.com/)
 
-All Twitter Stickers from Android device (948).
+All Twitter Stickers from Android device (948 stickers).
+On Android it's stored in folder /sdcard/Android/data/com.twitter.android/cache/stickers_disk
 
 ## Author
 
