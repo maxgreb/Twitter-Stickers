@@ -9,4 +9,4 @@ On Android it's stored in folder /sdcard/Android/data/com.twitter.android/cache/
 
 ### Screenshots
 
-![Twitter Stickers](https://i.imgsafe.org/27ea3e2fe5.png)
+![Twitter Stickers](https://68.media.tumblr.com/79c8c9fb0a3415a9c2112f00e56678ec/tumblr_inline_oc3mfqqelU1rrt6fj_540.png)
