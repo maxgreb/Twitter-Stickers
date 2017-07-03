@@ -7,6 +7,6 @@ On Android it's stored in folder /sdcard/Android/data/com.twitter.android/cache/
 
  * Max Grebennikov (Author-Developer) maxgreb@gmail.com
 
-###Screenshots
+### Screenshots
 
 ![Twitter Stickers](https://i.imgsafe.org/27ea3e2fe5.png)
